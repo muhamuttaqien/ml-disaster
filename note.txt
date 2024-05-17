@@ -1,0 +1,7 @@
+https://chat.openai.com/c/24098960-116e-44fa-98c3-71070e953840
+
+https://towardsdatascience.com/predicting-sales-611cb5a252de
+
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
