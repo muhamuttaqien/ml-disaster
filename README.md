@@ -1,15 +1,15 @@
 # ml-disaster
 
-This repository explores the application of Long Short-Term Memory (LSTM) networks for building a tsunami detection system. The current implementation utilizes an observation window (sequence_length) of 20.
+This repository explores the application of Long Short-Term Memory (LSTM) networks for building a robust tsunami detection system. The current implementation utilizes an observation window (sequence_length) of 20.
 
 ## LSTM Models
 
 ### Univariate LSTM Models
-1. **Vanilla LSTM**: Basic LSTM model with a single layer.
-2. **Stacked LSTM**: LSTM with multiple layers stacked one after the other.
-3. **Bidirectional LSTM**: Processes data in both forward and backward directions.
-4. **CNN LSTM**: Combines Convolutional Neural Network (CNN) layers with LSTM layers.
-5. **ConvLSTM**: Integrates convolution operations within the LSTM cells.
+1. **Vanilla LSTM**: Basic LSTM model with a single layer. ✅ 
+2. **Stacked LSTM**: LSTM with multiple layers stacked one after the other. ✅ 
+3. **Bidirectional LSTM**: Processes data in both forward and backward directions. ✅ 
+4. **CNN LSTM**: Combines Convolutional Neural Network (CNN) layers with LSTM layers. ✅ 
+5. **ConvLSTM**: Integrates convolution operations within the LSTM cells. ✅ 
 
 ### Multivariate LSTM Models
 1. **Multiple Input Series**: Processes more than one data sequence as input.
